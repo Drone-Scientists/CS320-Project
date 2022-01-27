@@ -1,3 +1,6 @@
 [submodule "PX4-Autopilot"]
 	path = PX4-Autopilot
 	url = git@github.com:Drone-Scientists/PX4-Autopilot.git
+[submodule "BouncyBall"]
+	path = BouncyBall
+	url = git@github.com:Drone-Scientists/BouncyBall.git
