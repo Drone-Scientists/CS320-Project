@@ -4,3 +4,6 @@
 [submodule "BouncyBall"]
 	path = BouncyBall
 	url = git@github.com:Drone-Scientists/BouncyBall.git
+[submodule "flightctl"]
+	path = flightctl
+	url = git@github.com:Drone-Scientists/flightctl.git
