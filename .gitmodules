@@ -7,3 +7,9 @@
 [submodule "flightctl"]
 	path = flightctl
 	url = git@github.com:Drone-Scientists/flightctl.git
+[submodule "Morse-code"]
+	path = Morse-code
+	url = git@github.com:Drone-Scientists/Morse-code.git
+[submodule "Navigation"]
+	path = Navigation
+	url = git@github.com:Drone-Scientists/Navigation.git
